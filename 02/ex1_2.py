@@ -11,3 +11,4 @@ print(x,y,z)
 if x == 999 and y == 999 and z == 999:
     # :thinking:
     print("⑨⑨⑨⑨⑨⑨⑨⑨⑨")
+    
