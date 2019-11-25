@@ -1,8 +1,8 @@
-import turtle
-wa = turtle.Screen()
+import p
+wa = p.Screen()
 wa.bgcolor("black")
 
-t = turtle.Pen()
+t = p.Pen()
 t.speed(0)
 
 t.shape("turtle")

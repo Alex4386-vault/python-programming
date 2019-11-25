@@ -1,4 +1,4 @@
-import turtle as tur
+import p as tur
 import math
 
 t = tur.Pen()
